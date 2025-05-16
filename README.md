@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam Morales</h1>
-<h3 align="center">A ML student researcher and DevOps engineer</h3>
+<h3 align="center">ML/DL & DevOps</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljiro" alt="ljiro" /></a> </p>
 
