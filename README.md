@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ljiro" alt="ljiro" /></a> </p>
 
-- 🌱 I’m currently learning **Lisp**
-
 - 👯 I’m looking to collaborate on **creating an AMD tensor driver**
 
 - 🤝 I’m looking for help with **documentation**
