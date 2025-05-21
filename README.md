@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **liamjiromorales5@gmail.com**
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ljiro)
 
 </p>
 
