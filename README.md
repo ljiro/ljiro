@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **documentation**
 
-- 💬 Ask me about **react,python,math**
+- 💬 Ask me about **Machine Learning, API development, and mathematics**
 
 - 📫 How to reach me **liamjiromorales5@gmail.com**
 
