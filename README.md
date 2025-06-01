@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **liamjiromorales5@gmail.com**
 
-- 🔎 My Kaggle account **[liammorales*](https://www.kaggle.com/liammorales)*
+- 🔎 My Kaggle account **[liammorales](https://www.kaggle.com/liammorales)**
 
  
 
